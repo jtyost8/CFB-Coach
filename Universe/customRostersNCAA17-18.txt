@@ -3064,7 +3064,7 @@ Louisville,Robbie Bell,OL,1,5
 Louisville,Nathan Scheler,OL,3,5
 Louisville,Toryque Bateman,OL,1,5
 Louisville,Toriano Roundtree,OL,4,5
-Louisville,Lamar Jackson,QB,3,9
+Louisville,Joe Burrow,QB,2,7
 Louisville,Jawon Pass,QB,1,6
 Louisville,Malik Cunningham,QB,1,5
 Louisville,Reggie Bonnafon,RB,4,8
@@ -4722,7 +4722,7 @@ Ohio State,Gavin Cupp,OL,1,6
 Ohio State,Joshua Alabi,OL,2,6
 Ohio State,Thayer Munford,OL,1,6
 Ohio State,JT Barrett,QB,4,9
-Ohio State,Joe Burrow,QB,2,7
+Ohio State,Lamar Jackson,QB,3,9
 Ohio State,Dwayne Haskins,QB,1,7
 Ohio State,Tate Martell,QB,1,7
 Ohio State,Mike Weber,RB,2,9
@@ -4740,7 +4740,7 @@ Ohio State,AJ Alexander,TE,3,7
 Ohio State,Luke Farrell,TE,1,7
 Ohio State,Rashod Berry,TE,2,7
 Ohio State,Jake Hausmann,TE,1,7
-Ohio State,Parris Campbell,WR,3,10
+Ohio State,Kenny Hill,WR,4,9
 Ohio State,Johnnie Dixon,WR,3,8
 Ohio State,Binjimen Victor,WR,2,8
 Ohio State,Austin Mack,WR,2,8
@@ -6029,7 +6029,6 @@ TCU,Garrett Altman,OL,4,6
 TCU,Sam Awolope,OL,2,6
 TCU,Kellton Hollins,OL,1,6
 TCU,David Bolisomi,OL,2,6
-TCU,Kenny Hill,QB,4,9
 TCU,Shawn Robinson,QB,1,7
 TCU,Grayson Muehlstein,QB,3,6
 TCU,Kyle Hicks,RB,3,9
